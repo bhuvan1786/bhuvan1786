@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @bhuvan1786
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-bhuvan1786/bhuvan1786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @bhuvan1786.
+- The Library Management Project  is made only with the help of @ Spyder and Mysql Database 
+- It is a basic library management Project which can be used to lessen the work load of librarian as the data stored is safe and always secure.
+- It contains the basic finctions like adding books to database ,Info of person issuning and submiting them.
+- It is not only a Library managemnt tool ,but also i have used Speech Recognizer Module to get the voice assistant and speech to text ,etc,just in case Librarain feel weary to type the command ,so he/she can give command with voice .This Makes program more advanced .
